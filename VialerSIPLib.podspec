@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
 	s.license          	= 'GNU GPL v3'
 	s.author           	= {"Devhouse Spindle" => "opensource@wearespindle.com"}
 
-	s.source           	= {:git => "https://github.com/Spyspyspy/Vialer-pjsip-iOS.git", :tag => s.version.to_s}
+	s.source           	= {:git => "https://github.com/Spyspyspy/Vialer-pjsip-iOS.git"}
 	s.social_media_url 	= "https://twitter.com/wearespindle"
 
 	s.platform     		= :ios, '10.0'
